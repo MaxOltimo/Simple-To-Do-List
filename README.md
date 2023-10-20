@@ -1,6 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made a Simple-To-Do-List website using HTML, CSS, and JS.
 
 Currently, two official plugins are available:
 
